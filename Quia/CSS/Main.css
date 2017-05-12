@@ -1,7 +1,7 @@
 html
 {
     height: 100%;
-    widows: 100%;
+    width: 100%;
     background-image: linear-gradient(to bottom, rgb(114, 180, 241), #CDE5F6 43% ,rgb(236, 242, 246));
     padding: 3px;
 }
