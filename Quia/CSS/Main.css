@@ -1,0 +1,141 @@
+html
+{
+    height: 100%;
+    widows: 100%;
+    background-image: linear-gradient(to bottom, rgb(114, 180, 241), #CDE5F6 43% ,rgb(236, 242, 246));
+    padding: 3px;
+}
+
+#container
+{
+    position: absolute;
+    left: 50%;
+    margin: 0 -393px 0 -393px
+}
+
+#header
+{
+    display: block;
+    margin: 0 auto;
+    width: 777px;
+    height: 70px;
+    background-image: linear-gradient(to bottom, rgb(255, 255, 255), rgb(222, 236, 246));
+}
+
+#header img
+{
+    float: left;
+}
+
+img 
+{
+    margin: inherit;
+    display: inherit;
+}
+
+#content
+{
+    width: 777px;
+    height: 464px;
+    display: block;
+    margin: 0 auto;
+}
+
+button
+{
+    font-family: Verdana;
+    border-radius: 20px;
+    background-image: linear-gradient(to bottom, #FDFEFE, #D3E0EA);
+    width: 173px;
+    height: 26px;
+    text-align: center;
+    color: #0074E1;
+    font-size: 13px;
+    box-shadow: none;
+    appearance: none;
+    border: 1px white solid;
+    position: absolute;
+    top: 89%;
+}
+
+.Section
+{
+    border-top: 3px solid white;
+    border: 1px solid white;
+    width: 259px;
+    height: 447px;
+    float: left;
+    padding-left: 36px;
+    padding-top: 26px;
+    padding-right: 15px;
+    text-align: left;
+}
+
+.Section h1
+{
+    font-family: Verdana;
+    font-size: 24px;
+    color: white;
+}
+
+.Section img
+{
+    position: absolute;
+    display: block;
+    align-content: center;
+    top: 50%;
+}
+
+.Section p 
+{
+    font-family: Verdana;
+    display: inline;
+    font-size: 12px;
+    width: 196px;
+}
+#Books
+{
+    background-image: linear-gradient(to right, #F29E4D, #FCCB9B);
+}
+
+#Web
+{
+    background-image: linear-gradient(to right, #52A0EA, #88BFF7);
+}
+
+.Section h1
+{
+    padding-bottom: 22px;
+}
+
+#IXL
+{
+    border-right: 2px solid white;
+    background-image: linear-gradient(to right, #ACDC2A, #D2F476);
+}
+
+
+#footer
+{
+    background-color: #BBBBBB;
+    font-size: 10px;
+    text-align: center;
+    font-family: Verdana;
+    color: white;
+    border: 2px solid white;
+    width: 775px;
+    height: 22px;
+    margin-top: -20px;
+}
+
+#footer img
+{
+    display: inline;
+    margin-bottom: -6px;
+    position: relative;
+}
+
+#footer p
+{
+    display: inline;
+}
